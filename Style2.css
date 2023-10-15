@@ -1,0 +1,158 @@
+.kontainer {
+    height: 15000%;
+    width: 100%;
+    background-color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  .header {
+    background-color: #E55451;
+    padding: 10px;
+    height: 50px;
+    
+  }
+  .header ul li{
+    display: inline-block;
+    margin-right: 10px;
+    
+  }
+  .medsos {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+
+.navigasi {
+  
+    overflow: hidden;
+    background-color: #F67280;
+  }
+  
+ 
+  
+.navigasi a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigasi ul li a:hover {
+    background-color: #E55451;
+    color: black;
+  
+  }
+
+  .tugas a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+  }
+  
+  
+  
+  
+  .menu{
+   float: right;  
+  }
+  
+  .navigasi {
+    width: 100%;
+  
+    line-height: 80%;
+    
+    top: 0;
+    
+  }
+  
+  .navigasi ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+  }
+  
+  .navigasi ul li {
+    float: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+img {
+    margin-right: 20px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table, th, td {
+        border:1px solid black; 
+        border-collapse: collapse; 
+}
+
+body {
+    background-color: rgb(255, 208, 208);
+}
+a link {
+ background-color: bisque;
+}
+
+.jadwal td a:hover {
+    text-decoration: none ;
+    background-color: rgb(147, 228, 201);
+     
+}
+
+
+
+
+.Visi center p {
+    text-shadow: 2px 2px 5px rgb(102, 102, 241);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.Visi center p ul li {
+    list-style-position: outside  
+}
+
+.gallery {
+    .gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+      }
+   
+  }
+.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  *{
+    box-sizing: border-box;
+
+  }
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+   
+}
+
+
+
+
+
+
+
+ 
+
+
+

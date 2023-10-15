@@ -1,0 +1,175 @@
+.kontainer {
+    height: 15000%;
+    width: 100%;
+    background-color: #cdda97;
+    border: 2px solid;
+}
+.header {
+  
+    background-color: #E55451;
+    padding: 10px;
+    height: 30px;
+   
+  }
+  .header ul li{
+    display: inline-block;
+    margin-right: 10px;
+    
+  }
+  .medsos {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .Nav {
+  
+    overflow: hidden;
+    background-color: #F67280;
+  }
+  
+  
+  .Nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .Nav ul li a:hover {
+    background-color: #E55451;
+    color: black;
+  
+  }
+  
+  .tugas a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+  }
+  
+  
+  
+  
+  .menu{
+   float: right;  
+  }
+  
+  .Nav {
+    width: 100%;
+  
+    line-height: 80%;
+    
+    top: 0;
+    
+  }
+  
+  .Nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+  }
+  
+  .Nav ul li {
+    float: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .Nav {
+    overflow: hidden;
+    background-color: #F67280;
+  }
+  
+ 
+  .Nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  .Nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 15px;
+}
+
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+#main1{
+  background-color: rgb(133, 245, 232);
+  width: 200px;
+  height: 50px;
+}
+#main2{
+  background-color: #2e7172;
+  width: 200px;
+  height: 50px;
+}
+#main3{
+  background-color: #036666;
+  width: 200px;
+  height: 50px;
+}
+#center1{
+  background-color: #e36c5a;
+  width: 100px;
+  height: 50px;
+}
+#center2{
+  background-color: #da6b6b;
+  width: 200px;
+  height: 50px;
+}
+#center3{
+  background-color: #b62525;
+  width: 200px;
+  height: 50px;
+}
+
+#right1{
+  background-color: #fcee20;
+  width: 200px;
+  height: 80px;
+}
+#right2{
+  background-color: #cdc41d;
+  width: 200px;
+  height: 80px;
+}
+
+
+.Footer {
+  position:relative;
+  padding: 1%;
+   color: white;
+   text-align: center;
+  background-color: #a977b6;
+  
+  
+}

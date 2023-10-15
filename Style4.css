@@ -1,0 +1,220 @@
+.kontainer {
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+    
+}
+.header {
+  background-color: #E55451;
+  padding: 10px;
+  height: 30px;
+  
+}
+
+.header ul li{
+  display: inline-block;
+  margin-right: 10px;
+  
+}
+.medsos {
+  width: 80%;
+  margin: 0 
+}
+  .Nav {
+  
+    overflow: hidden;
+    background-color: #F67280;
+  }
+  
+  
+  .Nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .Nav ul li a:hover {
+    background-color: #E55451;
+    color: black;
+  
+  }
+  
+  .tugas a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+  }
+  
+  
+  
+  
+  .menu{
+   float: right;  
+  }
+  
+  .Nav {
+    width: 100%;
+  
+    line-height: 80%;
+    
+    top: 0;
+    
+  }
+  
+  .Nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+  }
+  
+  .Nav ul li {
+    float: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .Nav {
+    overflow: hidden;
+    background-color: #F67280;
+  }
+  
+ 
+  .Nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.Nav ul li a:hover {
+    background-color: #E55451;
+    color: black;
+  }
+
+#input {
+  border-radius: 70px;
+  border: 2px solid  #F89880;
+  width: 90%;
+  height: 50%;
+}
+
+.column1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 25%;
+  padding: 15px;
+}
+
+.column2 {
+  float: left;
+  width: 68.5%;
+  padding: 15px;
+  border: 2px solid #F89880;
+
+}
+
+.column2 .warna h2 {
+  border-bottom:2px solid #F89880;
+}
+
+.warna1{
+  background-color: transparent;
+}
+.warna2 {
+  background-color: transparent;
+}
+.merah {
+  background-color: red;
+}
+.biru {
+  background-color: blue;
+}
+.kuning {
+  background-color: yellow;
+}
+.ungu {
+  background-color: purple;
+}
+.pink {
+  background-color: pink;
+}
+
+
+
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+#main1{
+  
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid #FF7722;
+  text-align: center;
+}
+
+#main1:hover {
+  background-color: #F9966B;
+}
+#main2{
+  border: 2px solid;
+  background-color: #ffffff;
+  width: 170px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid #F89880;
+  text-align: center;
+}
+#main2:hover {
+  background-color: #F9966B;
+}
+
+#main3{
+  background-color: white;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid #FF7722;
+  text-align: center;
+ }
+ #main3:hover {
+  background-color: #F9966B;
+}
+
+
+
+
+
+.footer {
+  position:relative;
+  padding: 1%;
+   color: white;
+   text-align: center;
+  background-color: #b45935;
+  display: none;
+}
+
